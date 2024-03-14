@@ -8,5 +8,5 @@
 
 ## Exercise Files: 
 - Learning Journal Entry 2.8 
-- Screen Recording of User Journey
+- Screen Shot if test report
 
